@@ -1,0 +1,6 @@
+{
+  "name": "IMPERIUM",
+  "description": "An ultra-premium, cinematic, emotionally powerful motivational experience inspired by Stoic philosophy, self-mastery, discipline, and legacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
